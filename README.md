@@ -1,6 +1,6 @@
 # PortSwigger Web Security Academy Çözümleri
 
-PortSwigger Web Security Academy laboratuvarlarının Türkçe çözümlerini ve detaylı açıklamalarını içeren PDF dokümannını barındırmaktadır.
+PortSwigger Web Security Academy laboratuvarlarının Türkçe çözümlerini ve detaylı açıklamalarını içeren PDF dokümanını barındırmaktadır.
 
 ## 📚 İçindekiler
 
